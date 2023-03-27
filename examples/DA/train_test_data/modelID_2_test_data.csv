@@ -1,0 +1,226 @@
+,input,label
+0,/data/images/DA/H&E/subwindows_512x512/original/0543_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0543_S42.4_DC04_668 _H&E_10x_s4_mask.png
+1,/data/images/DA/H&E/subwindows_512x512/original/0544_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0544_S42.4_DC04_668 _H&E_10x_s4_mask.png
+2,/data/images/DA/H&E/subwindows_512x512/original/0545_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0545_S42.4_DC04_668 _H&E_10x_s4_mask.png
+3,/data/images/DA/H&E/subwindows_512x512/original/0546_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0546_S42.4_DC04_668 _H&E_10x_s4_mask.png
+4,/data/images/DA/H&E/subwindows_512x512/original/0547_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0547_S42.4_DC04_668 _H&E_10x_s4_mask.png
+5,/data/images/DA/H&E/subwindows_512x512/original/0548_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0548_S42.4_DC04_668 _H&E_10x_s4_mask.png
+6,/data/images/DA/H&E/subwindows_512x512/original/0549_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0549_S42.4_DC04_668 _H&E_10x_s4_mask.png
+7,/data/images/DA/H&E/subwindows_512x512/original/0550_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0550_S42.4_DC04_668 _H&E_10x_s4_mask.png
+8,/data/images/DA/H&E/subwindows_512x512/original/0551_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0551_S42.4_DC04_668 _H&E_10x_s4_mask.png
+9,/data/images/DA/H&E/subwindows_512x512/original/0552_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0552_S42.4_DC04_668 _H&E_10x_s4_mask.png
+10,/data/images/DA/H&E/subwindows_512x512/original/0553_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0553_S42.4_DC04_668 _H&E_10x_s4_mask.png
+11,/data/images/DA/H&E/subwindows_512x512/original/0554_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0554_S42.4_DC04_668 _H&E_10x_s4_mask.png
+12,/data/images/DA/H&E/subwindows_512x512/original/0555_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0555_S42.4_DC04_668 _H&E_10x_s4_mask.png
+13,/data/images/DA/H&E/subwindows_512x512/original/0556_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0556_S42.4_DC04_668 _H&E_10x_s4_mask.png
+14,/data/images/DA/H&E/subwindows_512x512/original/0557_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0557_S42.4_DC04_668 _H&E_10x_s4_mask.png
+15,/data/images/DA/H&E/subwindows_512x512/original/0558_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0558_S42.4_DC04_668 _H&E_10x_s4_mask.png
+16,/data/images/DA/H&E/subwindows_512x512/original/0559_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0559_S42.4_DC04_668 _H&E_10x_s4_mask.png
+17,/data/images/DA/H&E/subwindows_512x512/original/0560_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0560_S42.4_DC04_668 _H&E_10x_s4_mask.png
+18,/data/images/DA/H&E/subwindows_512x512/original/0561_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0561_S42.4_DC04_668 _H&E_10x_s4_mask.png
+19,/data/images/DA/H&E/subwindows_512x512/original/0562_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0562_S42.4_DC04_668 _H&E_10x_s4_mask.png
+20,/data/images/DA/H&E/subwindows_512x512/original/0563_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0563_S42.4_DC04_668 _H&E_10x_s4_mask.png
+21,/data/images/DA/H&E/subwindows_512x512/original/0564_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0564_S42.4_DC04_668 _H&E_10x_s4_mask.png
+22,/data/images/DA/H&E/subwindows_512x512/original/0565_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0565_S42.4_DC04_668 _H&E_10x_s4_mask.png
+23,/data/images/DA/H&E/subwindows_512x512/original/0566_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0566_S42.4_DC04_668 _H&E_10x_s4_mask.png
+24,/data/images/DA/H&E/subwindows_512x512/original/0567_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0567_S42.4_DC04_668 _H&E_10x_s4_mask.png
+25,/data/images/DA/H&E/subwindows_512x512/original/0568_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0568_S42.4_DC04_668 _H&E_10x_s4_mask.png
+26,/data/images/DA/H&E/subwindows_512x512/original/0569_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0569_S42.4_DC04_668 _H&E_10x_s4_mask.png
+27,/data/images/DA/H&E/subwindows_512x512/original/0570_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0570_S42.4_DC04_668 _H&E_10x_s4_mask.png
+28,/data/images/DA/H&E/subwindows_512x512/original/0571_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0571_S42.4_DC04_668 _H&E_10x_s4_mask.png
+29,/data/images/DA/H&E/subwindows_512x512/original/0572_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0572_S42.4_DC04_668 _H&E_10x_s4_mask.png
+30,/data/images/DA/H&E/subwindows_512x512/original/0573_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0573_S42.4_DC04_668 _H&E_10x_s4_mask.png
+31,/data/images/DA/H&E/subwindows_512x512/original/0574_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0574_S42.4_DC04_668 _H&E_10x_s4_mask.png
+32,/data/images/DA/H&E/subwindows_512x512/original/0575_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0575_S42.4_DC04_668 _H&E_10x_s4_mask.png
+33,/data/images/DA/H&E/subwindows_512x512/original/0576_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0576_S42.4_DC04_668 _H&E_10x_s4_mask.png
+34,/data/images/DA/H&E/subwindows_512x512/original/0577_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0577_S42.4_DC04_668 _H&E_10x_s4_mask.png
+35,/data/images/DA/H&E/subwindows_512x512/original/0578_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0578_S42.4_DC04_668 _H&E_10x_s4_mask.png
+36,/data/images/DA/H&E/subwindows_512x512/original/0579_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0579_S42.4_DC04_668 _H&E_10x_s4_mask.png
+37,/data/images/DA/H&E/subwindows_512x512/original/0580_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0580_S42.4_DC04_668 _H&E_10x_s4_mask.png
+38,/data/images/DA/H&E/subwindows_512x512/original/0581_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0581_S42.4_DC04_668 _H&E_10x_s4_mask.png
+39,/data/images/DA/H&E/subwindows_512x512/original/0582_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0582_S42.4_DC04_668 _H&E_10x_s4_mask.png
+40,/data/images/DA/H&E/subwindows_512x512/original/0583_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0583_S42.4_DC04_668 _H&E_10x_s4_mask.png
+41,/data/images/DA/H&E/subwindows_512x512/original/0584_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0584_S42.4_DC04_668 _H&E_10x_s4_mask.png
+42,/data/images/DA/H&E/subwindows_512x512/original/0585_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0585_S42.4_DC04_668 _H&E_10x_s4_mask.png
+43,/data/images/DA/H&E/subwindows_512x512/original/0586_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0586_S42.4_DC04_668 _H&E_10x_s4_mask.png
+44,/data/images/DA/H&E/subwindows_512x512/original/0587_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0587_S42.4_DC04_668 _H&E_10x_s4_mask.png
+45,/data/images/DA/H&E/subwindows_512x512/original/0588_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0588_S42.4_DC04_668 _H&E_10x_s4_mask.png
+46,/data/images/DA/H&E/subwindows_512x512/original/0589_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0589_S42.4_DC04_668 _H&E_10x_s4_mask.png
+47,/data/images/DA/H&E/subwindows_512x512/original/0590_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0590_S42.4_DC04_668 _H&E_10x_s4_mask.png
+48,/data/images/DA/H&E/subwindows_512x512/original/0591_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0591_S42.4_DC04_668 _H&E_10x_s4_mask.png
+49,/data/images/DA/H&E/subwindows_512x512/original/0592_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0592_S42.4_DC04_668 _H&E_10x_s4_mask.png
+50,/data/images/DA/H&E/subwindows_512x512/original/0593_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0593_S42.4_DC04_668 _H&E_10x_s4_mask.png
+51,/data/images/DA/H&E/subwindows_512x512/original/0594_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0594_S42.4_DC04_668 _H&E_10x_s4_mask.png
+52,/data/images/DA/H&E/subwindows_512x512/original/0595_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0595_S42.4_DC04_668 _H&E_10x_s4_mask.png
+53,/data/images/DA/H&E/subwindows_512x512/original/0596_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0596_S42.4_DC04_668 _H&E_10x_s4_mask.png
+54,/data/images/DA/H&E/subwindows_512x512/original/0597_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0597_S42.4_DC04_668 _H&E_10x_s4_mask.png
+55,/data/images/DA/H&E/subwindows_512x512/original/0598_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0598_S42.4_DC04_668 _H&E_10x_s4_mask.png
+56,/data/images/DA/H&E/subwindows_512x512/original/0599_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0599_S42.4_DC04_668 _H&E_10x_s4_mask.png
+57,/data/images/DA/H&E/subwindows_512x512/original/0600_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0600_S42.4_DC04_668 _H&E_10x_s4_mask.png
+58,/data/images/DA/H&E/subwindows_512x512/original/0601_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0601_S42.4_DC04_668 _H&E_10x_s4_mask.png
+59,/data/images/DA/H&E/subwindows_512x512/original/0602_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0602_S42.4_DC04_668 _H&E_10x_s4_mask.png
+60,/data/images/DA/H&E/subwindows_512x512/original/0603_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0603_S42.4_DC04_668 _H&E_10x_s4_mask.png
+61,/data/images/DA/H&E/subwindows_512x512/original/0604_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0604_S42.4_DC04_668 _H&E_10x_s4_mask.png
+62,/data/images/DA/H&E/subwindows_512x512/original/0605_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0605_S42.4_DC04_668 _H&E_10x_s4_mask.png
+63,/data/images/DA/H&E/subwindows_512x512/original/0606_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0606_S42.4_DC04_668 _H&E_10x_s4_mask.png
+64,/data/images/DA/H&E/subwindows_512x512/original/0607_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0607_S42.4_DC04_668 _H&E_10x_s4_mask.png
+65,/data/images/DA/H&E/subwindows_512x512/original/0608_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0608_S42.4_DC04_668 _H&E_10x_s4_mask.png
+66,/data/images/DA/H&E/subwindows_512x512/original/0609_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0609_S42.4_DC04_668 _H&E_10x_s4_mask.png
+67,/data/images/DA/H&E/subwindows_512x512/original/0610_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0610_S42.4_DC04_668 _H&E_10x_s4_mask.png
+68,/data/images/DA/H&E/subwindows_512x512/original/0611_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0611_S42.4_DC04_668 _H&E_10x_s4_mask.png
+69,/data/images/DA/H&E/subwindows_512x512/original/0612_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0612_S42.4_DC04_668 _H&E_10x_s4_mask.png
+70,/data/images/DA/H&E/subwindows_512x512/original/0613_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0613_S42.4_DC04_668 _H&E_10x_s4_mask.png
+71,/data/images/DA/H&E/subwindows_512x512/original/0614_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0614_S42.4_DC04_668 _H&E_10x_s4_mask.png
+72,/data/images/DA/H&E/subwindows_512x512/original/0615_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0615_S42.4_DC04_668 _H&E_10x_s4_mask.png
+73,/data/images/DA/H&E/subwindows_512x512/original/0616_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0616_S42.4_DC04_668 _H&E_10x_s4_mask.png
+74,/data/images/DA/H&E/subwindows_512x512/original/0617_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0617_S42.4_DC04_668 _H&E_10x_s4_mask.png
+75,/data/images/DA/H&E/subwindows_512x512/original/0618_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0618_S42.4_DC04_668 _H&E_10x_s4_mask.png
+76,/data/images/DA/H&E/subwindows_512x512/original/0619_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0619_S42.4_DC04_668 _H&E_10x_s4_mask.png
+77,/data/images/DA/H&E/subwindows_512x512/original/0620_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0620_S42.4_DC04_668 _H&E_10x_s4_mask.png
+78,/data/images/DA/H&E/subwindows_512x512/original/0621_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0621_S42.4_DC04_668 _H&E_10x_s4_mask.png
+79,/data/images/DA/H&E/subwindows_512x512/original/0622_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0622_S42.4_DC04_668 _H&E_10x_s4_mask.png
+80,/data/images/DA/H&E/subwindows_512x512/original/0623_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0623_S42.4_DC04_668 _H&E_10x_s4_mask.png
+81,/data/images/DA/H&E/subwindows_512x512/original/0624_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0624_S42.4_DC04_668 _H&E_10x_s4_mask.png
+82,/data/images/DA/H&E/subwindows_512x512/original/0625_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0625_S42.4_DC04_668 _H&E_10x_s4_mask.png
+83,/data/images/DA/H&E/subwindows_512x512/original/0626_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0626_S42.4_DC04_668 _H&E_10x_s4_mask.png
+84,/data/images/DA/H&E/subwindows_512x512/original/0627_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0627_S42.4_DC04_668 _H&E_10x_s4_mask.png
+85,/data/images/DA/H&E/subwindows_512x512/original/0628_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0628_S42.4_DC04_668 _H&E_10x_s4_mask.png
+86,/data/images/DA/H&E/subwindows_512x512/original/0629_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0629_S42.4_DC04_668 _H&E_10x_s4_mask.png
+87,/data/images/DA/H&E/subwindows_512x512/original/0630_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0630_S42.4_DC04_668 _H&E_10x_s4_mask.png
+88,/data/images/DA/H&E/subwindows_512x512/original/0631_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0631_S42.4_DC04_668 _H&E_10x_s4_mask.png
+89,/data/images/DA/H&E/subwindows_512x512/original/0632_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0632_S42.4_DC04_668 _H&E_10x_s4_mask.png
+90,/data/images/DA/H&E/subwindows_512x512/original/0633_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0633_S42.4_DC04_668 _H&E_10x_s4_mask.png
+91,/data/images/DA/H&E/subwindows_512x512/original/0634_S42.4_DC04_668 _H&E_10x_s4.tif,/data/images/DA/H&E/subwindows_512x512/labels/0634_S42.4_DC04_668 _H&E_10x_s4_mask.png
+92,/data/images/DA/H&E/subwindows_512x512/original/0753_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0753_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+93,/data/images/DA/H&E/subwindows_512x512/original/0754_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0754_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+94,/data/images/DA/H&E/subwindows_512x512/original/0755_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0755_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+95,/data/images/DA/H&E/subwindows_512x512/original/0756_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0756_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+96,/data/images/DA/H&E/subwindows_512x512/original/0757_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0757_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+97,/data/images/DA/H&E/subwindows_512x512/original/0758_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0758_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+98,/data/images/DA/H&E/subwindows_512x512/original/0759_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0759_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+99,/data/images/DA/H&E/subwindows_512x512/original/0760_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0760_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+100,/data/images/DA/H&E/subwindows_512x512/original/0761_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0761_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+101,/data/images/DA/H&E/subwindows_512x512/original/0762_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0762_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+102,/data/images/DA/H&E/subwindows_512x512/original/0763_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0763_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+103,/data/images/DA/H&E/subwindows_512x512/original/0764_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0764_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+104,/data/images/DA/H&E/subwindows_512x512/original/0765_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0765_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+105,/data/images/DA/H&E/subwindows_512x512/original/0766_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0766_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+106,/data/images/DA/H&E/subwindows_512x512/original/0767_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0767_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+107,/data/images/DA/H&E/subwindows_512x512/original/0768_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0768_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+108,/data/images/DA/H&E/subwindows_512x512/original/0769_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0769_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+109,/data/images/DA/H&E/subwindows_512x512/original/0770_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0770_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+110,/data/images/DA/H&E/subwindows_512x512/original/0771_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0771_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+111,/data/images/DA/H&E/subwindows_512x512/original/0772_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0772_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+112,/data/images/DA/H&E/subwindows_512x512/original/0773_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0773_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+113,/data/images/DA/H&E/subwindows_512x512/original/0774_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0774_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+114,/data/images/DA/H&E/subwindows_512x512/original/0775_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0775_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+115,/data/images/DA/H&E/subwindows_512x512/original/0776_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0776_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+116,/data/images/DA/H&E/subwindows_512x512/original/0777_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0777_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+117,/data/images/DA/H&E/subwindows_512x512/original/0778_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0778_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+118,/data/images/DA/H&E/subwindows_512x512/original/0779_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0779_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+119,/data/images/DA/H&E/subwindows_512x512/original/0780_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0780_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+120,/data/images/DA/H&E/subwindows_512x512/original/0781_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0781_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+121,/data/images/DA/H&E/subwindows_512x512/original/0782_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0782_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+122,/data/images/DA/H&E/subwindows_512x512/original/0783_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0783_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+123,/data/images/DA/H&E/subwindows_512x512/original/0784_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0784_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+124,/data/images/DA/H&E/subwindows_512x512/original/0785_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0785_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+125,/data/images/DA/H&E/subwindows_512x512/original/0786_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0786_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+126,/data/images/DA/H&E/subwindows_512x512/original/0787_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0787_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+127,/data/images/DA/H&E/subwindows_512x512/original/0788_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0788_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+128,/data/images/DA/H&E/subwindows_512x512/original/0789_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0789_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+129,/data/images/DA/H&E/subwindows_512x512/original/0790_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0790_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+130,/data/images/DA/H&E/subwindows_512x512/original/0791_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0791_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+131,/data/images/DA/H&E/subwindows_512x512/original/0792_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0792_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+132,/data/images/DA/H&E/subwindows_512x512/original/0793_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0793_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+133,/data/images/DA/H&E/subwindows_512x512/original/0794_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0794_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+134,/data/images/DA/H&E/subwindows_512x512/original/0795_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0795_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+135,/data/images/DA/H&E/subwindows_512x512/original/0796_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0796_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+136,/data/images/DA/H&E/subwindows_512x512/original/0797_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0797_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+137,/data/images/DA/H&E/subwindows_512x512/original/0798_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0798_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+138,/data/images/DA/H&E/subwindows_512x512/original/0799_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0799_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+139,/data/images/DA/H&E/subwindows_512x512/original/0800_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0800_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+140,/data/images/DA/H&E/subwindows_512x512/original/0801_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0801_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+141,/data/images/DA/H&E/subwindows_512x512/original/0802_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0802_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+142,/data/images/DA/H&E/subwindows_512x512/original/0803_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0803_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+143,/data/images/DA/H&E/subwindows_512x512/original/0804_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0804_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+144,/data/images/DA/H&E/subwindows_512x512/original/0805_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0805_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+145,/data/images/DA/H&E/subwindows_512x512/original/0806_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0806_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+146,/data/images/DA/H&E/subwindows_512x512/original/0807_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0807_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+147,/data/images/DA/H&E/subwindows_512x512/original/0808_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0808_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+148,/data/images/DA/H&E/subwindows_512x512/original/0809_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0809_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+149,/data/images/DA/H&E/subwindows_512x512/original/0810_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0810_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+150,/data/images/DA/H&E/subwindows_512x512/original/0811_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0811_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+151,/data/images/DA/H&E/subwindows_512x512/original/0812_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0812_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+152,/data/images/DA/H&E/subwindows_512x512/original/0813_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0813_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+153,/data/images/DA/H&E/subwindows_512x512/original/0814_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0814_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+154,/data/images/DA/H&E/subwindows_512x512/original/0815_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0815_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+155,/data/images/DA/H&E/subwindows_512x512/original/0816_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0816_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+156,/data/images/DA/H&E/subwindows_512x512/original/0817_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0817_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+157,/data/images/DA/H&E/subwindows_512x512/original/0818_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0818_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+158,/data/images/DA/H&E/subwindows_512x512/original/0819_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0819_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+159,/data/images/DA/H&E/subwindows_512x512/original/0820_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0820_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+160,/data/images/DA/H&E/subwindows_512x512/original/0821_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0821_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+161,/data/images/DA/H&E/subwindows_512x512/original/0822_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0822_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+162,/data/images/DA/H&E/subwindows_512x512/original/0823_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0823_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+163,/data/images/DA/H&E/subwindows_512x512/original/0824_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0824_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+164,/data/images/DA/H&E/subwindows_512x512/original/0825_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0825_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+165,/data/images/DA/H&E/subwindows_512x512/original/0826_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0826_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+166,/data/images/DA/H&E/subwindows_512x512/original/0827_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0827_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+167,/data/images/DA/H&E/subwindows_512x512/original/0828_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0828_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+168,/data/images/DA/H&E/subwindows_512x512/original/0829_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0829_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+169,/data/images/DA/H&E/subwindows_512x512/original/0830_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0830_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+170,/data/images/DA/H&E/subwindows_512x512/original/0831_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0831_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+171,/data/images/DA/H&E/subwindows_512x512/original/0832_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0832_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+172,/data/images/DA/H&E/subwindows_512x512/original/0833_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0833_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+173,/data/images/DA/H&E/subwindows_512x512/original/0834_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0834_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+174,/data/images/DA/H&E/subwindows_512x512/original/0835_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0835_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+175,/data/images/DA/H&E/subwindows_512x512/original/0836_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0836_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+176,/data/images/DA/H&E/subwindows_512x512/original/0837_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0837_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+177,/data/images/DA/H&E/subwindows_512x512/original/0838_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0838_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+178,/data/images/DA/H&E/subwindows_512x512/original/0839_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0839_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+179,/data/images/DA/H&E/subwindows_512x512/original/0840_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0840_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+180,/data/images/DA/H&E/subwindows_512x512/original/0841_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0841_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+181,/data/images/DA/H&E/subwindows_512x512/original/0842_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0842_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+182,/data/images/DA/H&E/subwindows_512x512/original/0843_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0843_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+183,/data/images/DA/H&E/subwindows_512x512/original/0844_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0844_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+184,/data/images/DA/H&E/subwindows_512x512/original/0845_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0845_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+185,/data/images/DA/H&E/subwindows_512x512/original/0846_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0846_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+186,/data/images/DA/H&E/subwindows_512x512/original/0847_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0847_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+187,/data/images/DA/H&E/subwindows_512x512/original/0848_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0848_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+188,/data/images/DA/H&E/subwindows_512x512/original/0849_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0849_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+189,/data/images/DA/H&E/subwindows_512x512/original/0850_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0850_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+190,/data/images/DA/H&E/subwindows_512x512/original/0851_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0851_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+191,/data/images/DA/H&E/subwindows_512x512/original/0852_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0852_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+192,/data/images/DA/H&E/subwindows_512x512/original/0853_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0853_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+193,/data/images/DA/H&E/subwindows_512x512/original/0854_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0854_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+194,/data/images/DA/H&E/subwindows_512x512/original/0855_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0855_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+195,/data/images/DA/H&E/subwindows_512x512/original/0856_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0856_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+196,/data/images/DA/H&E/subwindows_512x512/original/0857_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0857_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+197,/data/images/DA/H&E/subwindows_512x512/original/0858_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0858_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+198,/data/images/DA/H&E/subwindows_512x512/original/0859_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0859_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+199,/data/images/DA/H&E/subwindows_512x512/original/0860_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0860_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+200,/data/images/DA/H&E/subwindows_512x512/original/0861_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0861_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+201,/data/images/DA/H&E/subwindows_512x512/original/0862_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0862_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+202,/data/images/DA/H&E/subwindows_512x512/original/0863_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0863_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+203,/data/images/DA/H&E/subwindows_512x512/original/0864_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0864_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+204,/data/images/DA/H&E/subwindows_512x512/original/0865_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0865_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+205,/data/images/DA/H&E/subwindows_512x512/original/0866_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0866_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+206,/data/images/DA/H&E/subwindows_512x512/original/0867_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0867_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+207,/data/images/DA/H&E/subwindows_512x512/original/0868_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0868_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+208,/data/images/DA/H&E/subwindows_512x512/original/0869_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0869_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+209,/data/images/DA/H&E/subwindows_512x512/original/0870_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0870_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+210,/data/images/DA/H&E/subwindows_512x512/original/0871_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0871_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+211,/data/images/DA/H&E/subwindows_512x512/original/0872_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0872_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+212,/data/images/DA/H&E/subwindows_512x512/original/0873_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0873_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+213,/data/images/DA/H&E/subwindows_512x512/original/0874_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0874_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+214,/data/images/DA/H&E/subwindows_512x512/original/0875_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0875_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+215,/data/images/DA/H&E/subwindows_512x512/original/0876_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0876_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+216,/data/images/DA/H&E/subwindows_512x512/original/0877_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0877_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+217,/data/images/DA/H&E/subwindows_512x512/original/0878_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0878_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+218,/data/images/DA/H&E/subwindows_512x512/original/0879_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0879_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+219,/data/images/DA/H&E/subwindows_512x512/original/0880_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0880_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+220,/data/images/DA/H&E/subwindows_512x512/original/0881_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0881_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+221,/data/images/DA/H&E/subwindows_512x512/original/0882_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0882_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+222,/data/images/DA/H&E/subwindows_512x512/original/0883_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0883_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+223,/data/images/DA/H&E/subwindows_512x512/original/0884_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0884_S50.4_SHAM_1644_H&E_10x_s1_mask.png
+224,/data/images/DA/H&E/subwindows_512x512/original/0885_S50.4_SHAM_1644_H&E_10x_s1.tif,/data/images/DA/H&E/subwindows_512x512/labels/0885_S50.4_SHAM_1644_H&E_10x_s1_mask.png
