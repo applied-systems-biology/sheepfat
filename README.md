@@ -6,7 +6,7 @@ A comparative assessment of various image analysis workflows to provide a fast, 
 
 ### Citation
 
-**If you used IMFSegNet for intramuscular fat segmentation cite the [paper](TODO):**
+**If you used IMFSegNet for intramuscular fat segmentation cite the [paper]():**
 
 Praetorius, J.-P., Walluks, K., Svensson, C.-M., Arnold, D., Figge M.T. (2023). IMFSegNet: Cost-effective and objective quantification of intramuscular fat in histological sections by deep learning. <em>Publication in progress</em>.
 
@@ -56,7 +56,7 @@ To get *JIPipe* running inside *Fiji* follow these steps:
 2. Download [Fiji](https://imagej.net/software/fiji/downloads) and copy the JIPipe plugin to `/Fiji.app/plugins/`
 3. Start Fiji, search for  `JIPipe` and run it
 4. Open the file `/SheepFat.jip` as project from the main directory
-5. Copy the required anaconda environment from the [link](https://asbdata.hki-jena.de/XYZEtAl2022/Material.zip.) `/model/JIPipe/python-cellpose-gpu/` to the`/Fiji.app/jipipe/` directory
+5. Copy the required anaconda environment from the [link](https://asbdata.hki-jena.de/PraetoriusEtAl2023_ComputBiolMed) `/model/JIPipe/python-cellpose-gpu/` to the`/Fiji.app/jipipe/` directory
 6. Configure the prepackaged from 5. in JIPipe in order to navigate to  `/Project/Application settings/Extensions/Python integration/` and specify the according path at the `/Python environment/`  
 
 # Run IMFSegNet manually
