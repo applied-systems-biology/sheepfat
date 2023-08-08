@@ -113,6 +113,6 @@ In case you want to start the k-means clustering or the IMFSegNet manual follow 
 
      and specify the corresponding directory paths in the script.
 
-     **This option can also be used to detect intramuscular fat as accurately as possible in H&E stained tissue sections that are not included in this [study](https://asbdata.hki-jena.de/PraetoriusEtAl2023_ComputBiolMed) (see `/data/images/KW/H&E/inputs/`, first unzip the corresponding directories)**
+     **This option can also be used to detect intramuscular fat as accurately as possible in H&E stained tissue sections that are not included in this [study](https://asbdata.hki-jena.de/PraetoriusEtAl2023_ComputStructBiotechnolJ) (see `/data/images/KW/H&E/inputs/`, first unzip the corresponding directories)**
 
      
